@@ -1,0 +1,41 @@
+.admin-tip{
+    text-align: center;
+}
+.logo-carry{
+    padding-left:33% !important;
+}
+.sidebar{
+  position: absolute;
+  left:0;
+  width:200px;
+  height: 100vh;
+  background-color:whitesmoke
+}
+.s-1{
+    padding-top:60%;
+    display: flex;
+}
+.s-img{
+    width:13%;
+}
+.img2{
+    margin-left:20%;
+}
+.img1{
+    margin-left:25%;
+}
+.brk{
+    background-color:black
+}
+.s-list{
+    list-style: none;
+}
+.s-div{
+    display: flex;
+    margin-left:10%;
+}
+.s-img-img{
+    height:20%;
+    max-width:20%;
+    min-width:20%;   
+}
